@@ -1,5 +1,3 @@
-You are in the development branch.
-In this branch we are going to play around with basic syntaxes.
 
 <h6>Test</h6>
 <h5>Test</h5>
@@ -8,3 +6,11 @@ In this branch we are going to play around with basic syntaxes.
 <h3>smaller test</h3>
 <h2>even smaller test</h2>
 <h1>smallest test</h1>
+
+<p>You can also use Line Breaks. This is the first line,<br>
+and this is the second line</p
+
+We created a new branch called development and merged it together with main so 
+we have a safe checkpoint for our code
+
+Moving on we are going to look at <em>italic styling</em> and also <strong>bold styling**</strong>.
