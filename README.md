@@ -9,3 +9,6 @@
 
 <p>You can also use Line Breaks. This is the first line,<br>
 and this is the second line</p
+
+We created a new branch called development and merged it together with main so 
+we have a safe checkpoint for our code
