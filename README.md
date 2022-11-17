@@ -1,7 +1,10 @@
-Hi and welcome to my project.
+You are in the development branch.
+In this branch we are going to play around with basic syntaxes.
 
-This project will show examples of a workflows lifecycle.
+<h6>Test</h6>
+<h5>Test</h5>
 
-This is the main branch. 
-
-Check the other branch for this projects workflow / lifecycle
+<h4>small test</h4>
+<h3>smaller test</h3>
+<h2>even smaller test</h2>
+<h1>smallest test</h1>
