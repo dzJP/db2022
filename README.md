@@ -12,3 +12,5 @@ and this is the second line</p
 
 We created a new branch called development and merged it together with main so 
 we have a safe checkpoint for our code
+
+Moving on we are going to look at <em>italic styling</em> and also <strong>bold styling**</strong>.
