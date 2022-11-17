@@ -28,6 +28,23 @@ You can also use Nested Blockquotes
 >
 >>this is the nested blockquote
 
+Moving on.
 
+Lists can be ordered and unordered.
+This is an ordered list.
 
+<ol>
+<li>First item</li>
+<li>Second item</li>
+<li>Third item</li>
+<li>Fourth item</li>
+</ol>
+
+and this is an unordered list.
+<ul>
+<li>First item</li>
+<li>Second item</li>
+<li>Third item</li>
+<li>Fourth item</li>
+</ul>
 
